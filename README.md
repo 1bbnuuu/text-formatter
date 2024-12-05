@@ -16,7 +16,7 @@ A simple and user-friendly web-based text formatting tool that allows you to man
 
 ## Demo
 
-You can access a live demo of the tool by opening the `index.html` file in your browser. Alternatively, you can deploy the project to your own server or use platforms like GitHub Pages.
+You can access a live demo of the tool by clicking the url https://1bbnuuu.github.io/text-formatter/. Alternatively, you can deploy the project to your own server or use platforms like GitHub Pages.
 
 ## Installation
 
