@@ -22,6 +22,6 @@ You can access a live demo of the tool by clicking the url https://1bbnuuu.githu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/text-formatter.git
+   git clone https://github.com/1bbnuuu/text-formatter.git
 
 ![screencapture-1bbnuuu-github-io-text-formatter-2024-12-05-21_55_35](https://github.com/user-attachments/assets/20b307ca-5542-4559-8db7-0899c214d66b)
